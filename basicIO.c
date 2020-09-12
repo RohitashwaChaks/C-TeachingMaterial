@@ -29,7 +29,5 @@ int basicIO()	//Function Definition
 
 	printf("Value of %d+%d is: %d\n",x,y,(x+y));
 
-
-
 	printf("User Assigned value for x is: %d\n",x);
 }
